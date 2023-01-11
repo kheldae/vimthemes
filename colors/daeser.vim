@@ -38,7 +38,7 @@ highlight clear
 	syntax reset
 endif
 
-let g:colors_name="despacio"
+let g:colors_name="daeser"
 
 if !exists("g:despacio_Sunset")
 	let g:despacio_Sunset = 0
