@@ -66,7 +66,7 @@ highlight Type guifg=#794e05 guibg=NONE gui=NONE ctermfg=172 ctermbg=NONE cterm=
 highlight String guifg=#5f8787 guibg=NONE gui=NONE ctermfg=66 ctermbg=NONE cterm=NONE
 highlight Special guifg=#875f5f guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
 highlight Conditional guifg=#875f5f guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
-highlight Operator guifg=#d2bd97 guibg=NONE gui=NONE ctermfg=246 ctermbg=NONE cterm=NONE
+highlight Operator guifg=#5b5656 guibg=NONE gui=NONE ctermfg=246 ctermbg=NONE cterm=NONE
 highlight Title guifg=#6e5a51 guibg=NONE gui=NONE ctermfg=173 ctermbg=NONE cterm=NONE
 highlight StorageClass guifg=#6e3a43 guibg=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
 highlight htmlItalic guifg=#ff875f guibg=NONE gui=NONE ctermfg=209 ctermbg=NONE cterm=NONE
