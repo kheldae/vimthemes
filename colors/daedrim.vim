@@ -31,7 +31,7 @@
 "colorscheme despacio
 "
 "DESPACIO:
-set background=dark
+set background=light
 
 highlight clear
 	if exists("syntax_on")
@@ -61,8 +61,8 @@ highlight PreProc guifg=#6e5a51 guibg=NONE gui=NONE ctermfg=173 ctermbg=NONE cte
 highlight Function guifg=#dfaf87 guibg=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
 highlight Identifier guifg=#dfaf87 guibg=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
 highlight Statement guifg=#af875f guibg=NONE gui=NONE ctermfg=137 ctermbg=NONE cterm=NONE
-highlight Constant guifg=#d78700 guibg=NONE gui=NONE ctermfg=172 ctermbg=NONE cterm=NONE
-highlight Type guifg=#d78700 guibg=NONE gui=NONE ctermfg=172 ctermbg=NONE cterm=NONE
+highlight Constant guifg=#794e05 guibg=NONE gui=NONE ctermfg=172 ctermbg=NONE cterm=NONE
+highlight Type guifg=#794e05 guibg=NONE gui=NONE ctermfg=172 ctermbg=NONE cterm=NONE
 highlight String guifg=#5f8787 guibg=NONE gui=NONE ctermfg=66 ctermbg=NONE cterm=NONE
 highlight Special guifg=#875f5f guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
 highlight Conditional guifg=#875f5f guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
@@ -113,7 +113,7 @@ highlight SpecialComment guifg=#767676 guibg=NONE gui=reverse ctermfg=243 ctermb
 highlight VimCommentTitle guifg=#767676 guibg=NONE gui=reverse ctermfg=243 ctermbg=NONE cterm=reverse
 highlight Underlined guifg=#87afaf guibg=NONE gui=NONE ctermfg=109 ctermbg=NONE cterm=NONE
 highlight FoldColumn guifg=#87afaf guibg=NONE gui=NONE ctermfg=109 ctermbg=NONE cterm=NONE
-highlight Todo guifg=#d78700 guibg=NONE gui=reverse ctermfg=172 ctermbg=NONE cterm=reverse
+highlight Todo guifg=#794e05 guibg=NONE gui=reverse ctermfg=172 ctermbg=NONE cterm=reverse
 highlight Visual guifg=#dfaf00 guibg=NONE gui=reverse ctermfg=178 ctermbg=NONE cterm=reverse
 highlight Question guifg=#af875f guibg=NONE gui=NONE ctermfg=137 ctermbg=NONE cterm=NONE
 highlight Search guifg=#dfaf00 guibg=NONE gui=reverse ctermfg=178 ctermbg=NONE cterm=reverse
