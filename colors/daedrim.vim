@@ -58,8 +58,8 @@ endif
 
 "COMMON COLORS AND SETTINGS
 highlight PreProc guifg=#6e5a51 guibg=NONE gui=NONE ctermfg=173 ctermbg=NONE cterm=NONE
-highlight Function guifg=#dfaf87 guibg=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
-highlight Identifier guifg=#dfaf87 guibg=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
+highlight Function guifg=#6e3a43 guibg=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
+highlight Identifier guifg=#6e3a43 guibg=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
 highlight Statement guifg=#4a4528 guibg=NONE gui=NONE ctermfg=137 ctermbg=NONE cterm=NONE
 highlight Constant guifg=#794e05 guibg=NONE gui=NONE ctermfg=172 ctermbg=NONE cterm=NONE
 highlight Type guifg=#794e05 guibg=NONE gui=NONE ctermfg=172 ctermbg=NONE cterm=NONE
@@ -68,9 +68,9 @@ highlight Special guifg=#875f5f guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cter
 highlight Conditional guifg=#875f5f guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
 highlight Operator guifg=#d2bd97 guibg=NONE gui=NONE ctermfg=246 ctermbg=NONE cterm=NONE
 highlight Title guifg=#6e5a51 guibg=NONE gui=NONE ctermfg=173 ctermbg=NONE cterm=NONE
-highlight StorageClass guifg=#dfaf87 guibg=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
+highlight StorageClass guifg=#6e3a43 guibg=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
 highlight htmlItalic guifg=#ff875f guibg=NONE gui=NONE ctermfg=209 ctermbg=NONE cterm=NONE
-highlight htmlEndTag guifg=#dfaf87 guibg=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
+highlight htmlEndTag guifg=#6e3a43 guibg=NONE gui=NONE ctermfg=180 ctermbg=NONE cterm=NONE
 highlight cssTagName guifg=#4a4528 guibg=NONE gui=NONE ctermfg=137 ctermbg=NONE cterm=NONE
 highlight cssClassName guifg=#ff875f guibg=NONE gui=NONE ctermfg=209 ctermbg=NONE cterm=NONE
 highlight cssIdentifier guifg=#ff875f guibg=NONE gui=NONE ctermfg=209 ctermbg=NONE cterm=NONE
