@@ -109,7 +109,7 @@ highlight SpellRare guifg=#ff8700 guibg=NONE gui=undercurl ctermfg=208 ctermbg=N
 
 "WINDOW UI
 highlight MoreMsg guifg=#675429 guibg=NONE gui=NONE ctermfg=137 ctermbg=NONE cterm=NONE
-highlight SpecialComment guifg=#767676 guibg=NONE gui=reverse ctermfg=243 ctermbg=NONE cterm=reverse
+highlight SpecialComment guifg=#351a1a guibg=NONE gui=reverse ctermfg=243 ctermbg=NONE cterm=reverse
 highlight VimCommentTitle guifg=#767676 guibg=NONE gui=reverse ctermfg=243 ctermbg=NONE cterm=reverse
 highlight Underlined guifg=#87afaf guibg=NONE gui=NONE ctermfg=109 ctermbg=NONE cterm=NONE
 highlight FoldColumn guifg=#87afaf guibg=NONE gui=NONE ctermfg=109 ctermbg=NONE cterm=NONE
