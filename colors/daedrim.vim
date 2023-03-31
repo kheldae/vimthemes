@@ -109,7 +109,7 @@ highlight SpellRare guifg=#ff8700 guibg=NONE gui=undercurl ctermfg=208 ctermbg=N
 
 "WINDOW UI
 highlight MoreMsg guifg=#675429 guibg=NONE gui=NONE ctermfg=137 ctermbg=NONE cterm=NONE
-highlight SpecialComment guifg=#351a1a guibg=NONE gui=reverse ctermfg=243 ctermbg=NONE cterm=reverse
+highlight SpecialComment guifg=#767676 guibg=NONE gui=reverse ctermfg=243 ctermbg=NONE cterm=reverse
 highlight VimCommentTitle guifg=#767676 guibg=NONE gui=reverse ctermfg=243 ctermbg=NONE cterm=reverse
 highlight Underlined guifg=#87afaf guibg=NONE gui=NONE ctermfg=109 ctermbg=NONE cterm=NONE
 highlight FoldColumn guifg=#87afaf guibg=NONE gui=NONE ctermfg=109 ctermbg=NONE cterm=NONE
@@ -151,7 +151,7 @@ if 1
 	highlight TabLineSel guifg=#eeeeee guibg=#262626 gui=NONE ctermfg=255 ctermbg=235 cterm=NONE
 	highlight TabLineFill guifg=NONE guibg=#262626 gui=NONE ctermfg=NONE ctermbg=235 cterm=NONE
 
-	highlight CursorLineNR guifg=#9e9e9e guibg=#262626 gui=NONE ctermfg=247 ctermbg=235 cterm=NONE
+	highlight CursorLineNR guifg=#351a1a guibg=#262626 gui=NONE ctermfg=247 ctermbg=235 cterm=NONE
 	highlight CursorLine guifg=NONE guibg=NONE gui=NONE ctermfg=NONE ctermbg=237 cterm=NONE
 	highlight CursorColumn guifg=NONE guibg=NONE gui=NONE ctermfg=NONE ctermbg=237 cterm=NONE
 	highlight ColorColumn guifg=NONE guibg=#3a3a3a gui=NONE ctermfg=NONE ctermbg=237 cterm=NONE
