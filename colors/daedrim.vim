@@ -148,10 +148,10 @@ if 1
 	highlight PmenuSbar guifg=#3a3a3a guibg=#3a3a3a gui=NONE ctermfg=237 ctermbg=237 cterm=NONE
 	highlight PmenuThumb guifg=#3a3a3a guibg=#3a3a3a gui=NONE ctermfg=237 ctermbg=237 cterm=NONE
 	highlight TabLine guifg=#767676 guibg=#262626 gui=NONE ctermfg=243 ctermbg=235 cterm=NONE
-	highlight TabLineSel guifg=#eeeeee guibg=#262626 gui=NONE ctermfg=255 ctermbg=235 cterm=NONE
+	highlight TabLineSel guifg=#351a1a guibg=#262626 gui=NONE ctermfg=255 ctermbg=235 cterm=NONE
 	highlight TabLineFill guifg=NONE guibg=#262626 gui=NONE ctermfg=NONE ctermbg=235 cterm=NONE
 
-	highlight CursorLineNR guifg=#351a1a guibg=#262626 gui=NONE ctermfg=247 ctermbg=235 cterm=NONE
+	highlight CursorLineNR guifg=#9e9e9e guibg=#262626 gui=NONE ctermfg=247 ctermbg=235 cterm=NONE
 	highlight CursorLine guifg=NONE guibg=NONE gui=NONE ctermfg=NONE ctermbg=237 cterm=NONE
 	highlight CursorColumn guifg=NONE guibg=NONE gui=NONE ctermfg=NONE ctermbg=237 cterm=NONE
 	highlight ColorColumn guifg=NONE guibg=#3a3a3a gui=NONE ctermfg=NONE ctermbg=237 cterm=NONE
