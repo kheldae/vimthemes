@@ -111,7 +111,7 @@ highlight SpellRare guifg=#ff8700 guibg=NONE gui=undercurl ctermfg=208 ctermbg=N
 highlight MoreMsg guifg=#675429 guibg=NONE gui=NONE ctermfg=137 ctermbg=NONE cterm=NONE
 highlight SpecialComment guifg=#767676 guibg=NONE gui=reverse ctermfg=243 ctermbg=NONE cterm=reverse
 highlight VimCommentTitle guifg=#767676 guibg=NONE gui=reverse ctermfg=243 ctermbg=NONE cterm=reverse
-highlight Underlined guifg=#351a1a guibg=NONE gui=NONE ctermfg=109 ctermbg=NONE cterm=NONE
+highlight Underlined guifg=#87afaf guibg=NONE gui=NONE ctermfg=109 ctermbg=NONE cterm=NONE
 highlight FoldColumn guifg=#87afaf guibg=NONE gui=NONE ctermfg=109 ctermbg=NONE cterm=NONE
 highlight Todo guifg=#794e05 guibg=NONE gui=reverse ctermfg=172 ctermbg=NONE cterm=reverse
 highlight Visual guifg=#dfaf00 guibg=NONE gui=reverse ctermfg=178 ctermbg=NONE cterm=reverse
