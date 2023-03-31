@@ -125,9 +125,9 @@ highlight netrwExe guifg=#5f8787 guibg=NONE gui=NONE ctermfg=66 ctermbg=NONE cte
 highlight netrwlist guifg=#875f5f guibg=NONE gui=NONE ctermfg=95 ctermbg=NONE cterm=NONE
 highlight Directory guifg=#675429 guibg=NONE gui=NONE ctermfg=137 ctermbg=NONE cterm=NONE
 highlight Cursor guifg=#000000 guibg=#ffffff gui=NONE ctermfg=16 ctermbg=231 cterm=NONE
-highlight CursorLineNr guifg=#c6c6c6 guibg=NONE gui=reverse ctermfg=251 ctermbg=NONE cterm=reverse
+highlight CursorLineNr guifg=#351a1a guibg=NONE gui=reverse ctermfg=251 ctermbg=NONE cterm=reverse
 highlight WildMenu guifg=#c6c6c6 guibg=NONE gui=reverse ctermfg=251 ctermbg=NONE cterm=reverse
-highlight ModeMsg guifg=#351a1a guibg=NONE gui=NONE ctermfg=188 ctermbg=NONE cterm=NONE
+highlight ModeMsg guifg=#dfdfdf guibg=NONE gui=NONE ctermfg=188 ctermbg=NONE cterm=NONE
 highlight SignColumn guifg=#87af87 guibg=NONE gui=NONE ctermfg=108 ctermbg=NONE cterm=NONE
 
 
