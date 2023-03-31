@@ -135,7 +135,7 @@ highlight SignColumn guifg=#87af87 guibg=NONE gui=NONE ctermfg=108 ctermbg=NONE 
 if 1
 	"COLORS
 	highlight Normal guifg=#323218 guibg=#303030 gui=NONE ctermfg=230 ctermbg=236 cterm=NONE
-	highlight Comment guifg=#351a1a guibg=NONE gui=NONE ctermfg=241 ctermbg=NONE cterm=NONE
+	highlight Comment guifg=#626262 guibg=NONE gui=NONE ctermfg=241 ctermbg=NONE cterm=NONE
 
 	"WINDOW UI
 	highlight StatusLine guifg=#eeeeee guibg=#262626 gui=NONE ctermfg=255 ctermbg=235 cterm=NONE
